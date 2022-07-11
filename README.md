@@ -1,2 +1,3 @@
 # NANDAN
-This is NANDAN Application is for helping to others
+HI ALL OF YOU
+HOW ARE YOU
